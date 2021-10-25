@@ -1,0 +1,10 @@
+# Node artifact files
+node_modules/
+dist/
+
+# JetBrains IDE
+.idea/
+
+# Large media files
+package-lock.json
+public/
