@@ -1,0 +1,25 @@
+{
+  "name": "api-proxy-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://lavrenenko_v@bitbucket.org/lavrenenko_v/api-proxy-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/lavrenenko_v/api-proxy-server/issues"
+  },
+  "homepage": "https://bitbucket.org/lavrenenko_v/api-proxy-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "needle": "^2.8.0"
+  }
+}
