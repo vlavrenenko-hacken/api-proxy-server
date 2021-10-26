@@ -8,3 +8,4 @@ dist/
 # Large media files
 package-lock.json
 public/
+.env
